@@ -1,0 +1,13 @@
+data/*
+data
+pretrained/*
+pretrained
+intermediate/*
+intermediate
+*.sh
+*.log
+test.lua
+exps/
+featurepool
+aritificialnetwork/
+*.config

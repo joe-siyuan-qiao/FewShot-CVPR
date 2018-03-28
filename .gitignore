@@ -1,0 +1,10 @@
+few-shot-mini/data
+few-shot-mini/train_large/gen/
+few-shot-mini/train_large/libnccl.so
+few-shot-mini/train_large/model_best.t7
+few-shot-mini/train_large/checkpoints
+few-shot-mini/train_large/training.log
+few-shot-mini/few_shot/pretrained
+few-shot-mini/few_shot/intermediate
+few-shot-mini/few_shot/exps
+few-shot-mini/few_shot/featurepool

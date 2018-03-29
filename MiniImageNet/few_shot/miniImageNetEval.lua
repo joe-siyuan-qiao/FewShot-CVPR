@@ -42,7 +42,6 @@ end
 -- preprocess function
 function p(a)
     return wnmod:forward(a):clone()
-    -- return torch.div(a, a:norm())
 end
 
 -- start test

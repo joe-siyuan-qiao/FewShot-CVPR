@@ -38,7 +38,7 @@ We did not implement this on the MiniImageNet dataset.
 ## Performances
 | Method        | 1-Shot        | 5-Shot  |
 | ------------- |:-------------:| -----:|
-| Matching Network | 43.56 (0.84) | 55.31 (0.73%) |
+| Matching Network | 43.56 (0.84) | 55.31 (0.73) |
 | Meta-Learner LSTM      |  43.44 (0.77) |   60.60 (0.71)|
 | MAML |  48.70 (1.84)      |    63.11 (0.92)|
 | Ours-Simple (in paper) | 54.53 (0.40) | 67.87 (0.20) |

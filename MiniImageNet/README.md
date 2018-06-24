@@ -43,4 +43,5 @@ We did not implement this on the MiniImageNet dataset.
 | MAML |  48.70 (1.84)      |    63.11 (0.92)|
 | Ours-Simple (in paper) | 54.53 (0.40) | 67.87 (0.20) |
 | Ours-Simple (multi-view) | 56.01 (0.59) | 70.70 (0.44) |
-| Ours-WRN (in paper) | 59.06 (0.41) | 73.74 (0.19) |
+| Ours-WRN (in paper) | 59.60 (0.41) | 73.74 (0.19) |
+| Ours-WRN (multi-view) | 63.62 (0.58) | 78.83 (0.36) |

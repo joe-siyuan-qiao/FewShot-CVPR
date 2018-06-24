@@ -9,7 +9,7 @@ In Conference on Computer Vision and Pattern Recognition (CVPR), 2018 Spotlight
 ```
 @inproceedings{Act2Param,
    title = {Few-Shot Image Recognition by Predicting Parameters from Activations},
-   author = {Siyuan Qiao, Chenxi Liu, Wei Shen, Alan Yuille},
+   author = {Siyuan Qiao and Chenxi Liu and Wei Shen and Alan L. Yuille},
    booktitle = {CVPR},
    year = {2018}
 }
